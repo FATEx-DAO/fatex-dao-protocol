@@ -1,3 +1,3 @@
-# VenomProtocol
+# FATExDAO Protocol
 
 TODO: docs
